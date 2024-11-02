@@ -1,4 +1,4 @@
-## Hi I'm Dae'Leon, an IT Professional👋
+## Hi, I'm Dae'Leon, an IT Professional👋
 
 <!--
 **DaeLeonFlucas/DaeLeonFlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
