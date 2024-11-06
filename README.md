@@ -8,8 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DaeLeonFlucas/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DaeLeonFlucas/azure-network-protocols)
-  - [Installing Active Directory in Azure](https://github.com/DaeLeonFlucas/install-ad/tree/main)
-  - [Configuring Active Directory in Azure](https://github.com/DaeLeonFlucas/configure-ad/tree/main)
+  - [Installing & Configuring Active Directory in Azure](https://github.com/DaeLeonFlucas/install-ad/tree/main)
   - [Understanding DNS in Azure](https://github.com/DaeLeonFlucas/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/DaeLeonFlucas/file-permissions)
 
