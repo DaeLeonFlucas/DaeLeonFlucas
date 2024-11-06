@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DaeLeonFlucas/azure-network-protocols)
   - [Installing & Configuring Active Directory in Azure](https://github.com/DaeLeonFlucas/Installing-Configuring-Active-Directory-in-Azure)
   - [Understanding DNS in Azure](https://github.com/DaeLeonFlucas/Understanding-DNS-in-Azure)
-  - [Understanding File Permissions in Azure](https://github.com/DaeLeonFlucas/file-permissions)
+  - [Understanding File Permissions in Azure](https://github.com/DaeLeonFlucas/Understanding-File-Permissions-in-Azure/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
