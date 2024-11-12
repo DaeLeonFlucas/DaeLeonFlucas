@@ -12,6 +12,9 @@
   - [Understanding DNS in Azure](https://github.com/DaeLeonFlucas/Understanding-DNS-in-Azure)
   - [Understanding File Permissions in Azure](https://github.com/DaeLeonFlucas/Understanding-File-Permissions-in-Azure/tree/main)
 
+- <b>Network Analysis</b>
+  -  [Analyzing Network Traffic Between Azure Virtual Machines]
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
