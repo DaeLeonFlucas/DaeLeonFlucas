@@ -12,8 +12,6 @@
   - [Understanding DNS in Azure](https://github.com/DaeLeonFlucas/Understanding-DNS-in-Azure)
   - [Understanding File Permissions in Azure](https://github.com/DaeLeonFlucas/Understanding-File-Permissions-in-Azure/tree/main)
 
-- <b>Network Analysis</b>
-  -  [Analyzing Network Traffic Between Azure Virtual Machines]
 
 <h2>🤳Connect with me:</h2>
 
