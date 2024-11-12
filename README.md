@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dae'Leon Flucas, an <a href="https://linkedin.com/in/daeleonflucas">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dae'Leon, an <a href="https://linkedin.com/in/daeleonflucas">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
